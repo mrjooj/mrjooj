@@ -6,3 +6,5 @@
 - Ele/Dele♂️
 - Contate-me no Email: jgcf706@gmail.com📧
 
+
+![mrjooj's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrjooj&show_icons=true&theme=cobalt)
